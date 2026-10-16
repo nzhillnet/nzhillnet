@@ -26,5 +26,8 @@ monitoring, mail servers, certificates, SSO, and the odd brewing or electronics 
 - **[homelab-grafana-loki](https://github.com/nzhillnet/homelab-grafana-loki)** — a Loki +
   Prometheus + Grafana stack with dashboards and alert rules generated from Python, not
   hand-built in the UI.
+- **[cert-push](https://github.com/nzhillnet/cert-push)** — acme.sh certificate issuance and
+  automated multi-host SSH deployment, so renewals deploy themselves instead of a manual
+  scp-and-reload every couple of months.
 
 <sub>Queenstown, New Zealand</sub>
