@@ -17,5 +17,8 @@ monitoring, mail servers, certificates, SSO, and the odd brewing or electronics 
 - **[gitea-comments-bridge](https://github.com/nzhillnet/gitea-comments-bridge)** — a
   self-hosted comment system for static sites, backed by a private Gitea instance instead of
   a third-party SaaS. [Full write-up](https://hillnet.co.nz/projects/self-hosted-hugo-comments-private-gitea/).
+- **[homelab-console](https://github.com/nzhillnet/homelab-console)** — a hardened, passkey-only
+  web console for running home-lab chores (cert issuance, publishing, Docker rollouts, mail admin)
+  as a form instead of a terminal session. [Full write-up](https://hillnet.co.nz/projects/homelab-console/).
 
 <sub>Queenstown, New Zealand</sub>
