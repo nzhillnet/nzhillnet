@@ -23,5 +23,8 @@ monitoring, mail servers, certificates, SSO, and the odd brewing or electronics 
 - **[lidarr-toolkit](https://github.com/nzhillnet/lidarr-toolkit)** — small scripts for Lidarr
   library maintenance its own UI doesn't cover: lossless quality-upgrade profiles, stalled-queue
   cleanup, and track-level import of "blocked" downloads.
+- **[homelab-grafana-loki](https://github.com/nzhillnet/homelab-grafana-loki)** — a Loki +
+  Prometheus + Grafana stack with dashboards and alert rules generated from Python, not
+  hand-built in the UI.
 
 <sub>Queenstown, New Zealand</sub>
