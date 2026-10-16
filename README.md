@@ -20,5 +20,8 @@ monitoring, mail servers, certificates, SSO, and the odd brewing or electronics 
 - **[homelab-console](https://github.com/nzhillnet/homelab-console)** — a hardened, passkey-only
   web console for running home-lab chores (cert issuance, publishing, Docker rollouts, mail admin)
   as a form instead of a terminal session. [Full write-up](https://hillnet.co.nz/projects/homelab-console/).
+- **[lidarr-toolkit](https://github.com/nzhillnet/lidarr-toolkit)** — small scripts for Lidarr
+  library maintenance its own UI doesn't cover: lossless quality-upgrade profiles, stalled-queue
+  cleanup, and track-level import of "blocked" downloads.
 
 <sub>Queenstown, New Zealand</sub>
